@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Sidik
-#### I am a passionate web developer from Bogor, Infonesia
+#### I am a passionate FullStack Web Developer from Bogor, Indonesia
 
-Skills: HTML / CSS / Bootstrap 5 / PHP / MySQL / JavaScript
+Skills: HTML / CSS / Bootstrap 5 / JavaScript / ReactJS / Go / MySQL
 
-- 🌱 I’m currently learning JavaScript, React JS, and Node JS 
+- 🌱 I’m currently learning React JS, and Go 
 - 📫 How to reach me: https://asidikrdn.netlify.app 
 
 
