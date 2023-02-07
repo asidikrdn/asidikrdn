@@ -4,7 +4,7 @@
 Skills: HTML / CSS / Bootstrap 5 / JavaScript / ReactJS / Go / MySQL
 
 - 🌱 I’m currently learning React JS, and Go 
-- 📫 How to reach me: https://asidikrdn.netlify.app 
+- 📫 How to reach me: https://asidikrdn.my.id 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asidikrdn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/asidikrdn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/asidikrdn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCtFqIQqA1wzxvCfV135UmeA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://www.gitlab.com/asidikrdn/)  
