@@ -14,7 +14,7 @@ Skills: HTML / CSS / Bootstrap 5 / JavaScript / ReactJS / Go / MySQL
 
 [![asidikrdn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@asidikrdn)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/b13b4e60-aa07-46ef-aca5-9406a11d1624.svg)](https://wakatime.com/@b13b4e60-aa07-46ef-aca5-9406a11d1624)
+<!-- [![wakatime](https://wakatime.com/badge/user/b13b4e60-aa07-46ef-aca5-9406a11d1624.svg)](https://wakatime.com/@b13b4e60-aa07-46ef-aca5-9406a11d1624) -->
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asidikrdn)   -->
 
